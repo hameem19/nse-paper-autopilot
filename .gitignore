@@ -1,0 +1,8 @@
+# runtime data: config, journal, logs, state, Telegram token. Never commit.
+trader/
+**/trader/
+__pycache__/
+*.pyc
+*.bak-*
+.DS_Store
+*.log
